@@ -27,8 +27,8 @@ With more time we'd like to create small 3d dioramas of illustrations that would
 
 1. Download the folder from this Github!
 2. Open your Unity Hub and click on "Add" -> Find the project folder in your downloads
-  - Ensure that your version of Unity has the Android Development and Vuforia modules!
+  * Ensure that your version of Unity has the Android Development and Vuforia modules!
 3. After opening, go to "File" -> "Build Settings" -> "Player Settings" -> Enable Vuforia on each platform module and disable Android TV compatability
 4. Connect your Android device via USB
-  - Ensure your Android device has Developer Mode and USB Debugging on!
+  * Ensure your Android device has Developer Mode and USB Debugging on!
 5. hit "Build and Run" and wait for the app to show up on your device!
