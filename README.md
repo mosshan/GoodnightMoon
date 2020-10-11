@@ -1,4 +1,4 @@
-# Goodnight Moon AR Translator
+# Goodnight Moon AR Translator (View Master Branch for Code)
 
 ## Inspiration
 When we saw the available categories for recognition at the beginning of KnightHacks, we decided that we wanted to pursue something using Augmented Reality. We'd need something with lots of vivid imagery for plane recognition, so we opted to go with modifying a children's book in some way. In the end we settled on making a translation for the book "Goodnight Moon" as a start to this project.
