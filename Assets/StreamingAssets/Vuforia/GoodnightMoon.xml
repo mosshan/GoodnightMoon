@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Page11" size="737.000000 639.000000" />
+    <ImageTarget name="Page15" size="717.000000 634.000000" />
+    <ImageTarget name="Page19" size="714.000000 643.000000" />
+    <ImageTarget name="Page22" size="727.000000 641.000000" />
+    <ImageTarget name="Page23" size="729.000000 640.000000" />
+    <ImageTarget name="Page24" size="727.000000 636.000000" />
+    <ImageTarget name="Page27" size="731.000000 636.000000" />
+    <ImageTarget name="Page28" size="747.000000 643.000000" />
+    <ImageTarget name="Page26" size="727.000000 642.000000" />
+    <ImageTarget name="Page25" size="733.000000 642.000000" />
+    <ImageTarget name="Page21" size="693.000000 643.000000" />
+    <ImageTarget name="Page20" size="730.000000 637.000000" />
+    <ImageTarget name="Page18" size="728.000000 644.000000" />
+    <ImageTarget name="Page17" size="705.000000 641.000000" />
+    <ImageTarget name="Page16" size="729.000000 638.000000" />
+    <ImageTarget name="Page14" size="741.000000 637.000000" />
+    <ImageTarget name="Page13" size="730.000000 641.000000" />
+    <ImageTarget name="Page12" size="746.000000 639.000000" />
+    <ImageTarget name="Page10" size="719.000000 641.000000" />
+    <ImageTarget name="Page9" size="731.000000 642.000000" />
+    <ImageTarget name="Page7" size="751.000000 640.000000" />
+    <ImageTarget name="Page6" size="758.000000 637.000000" />
+    <ImageTarget name="Page5" size="740.000000 641.000000" />
+    <ImageTarget name="Page4" size="756.000000 640.000000" />
+  </Tracking>
+</QCARConfig>
